@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "366810621192",
+    "firebase_url": "https://youngriview-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "youngriview",
+    "storage_bucket": "youngriview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366810621192:android:2ccff84fb27008ba12b8bd",
+        "android_client_info": {
+          "package_name": "com.tp.youngreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366810621192-tqk1q9kf5f1o3n5u0hpu6apuq4j5fkuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEM7LrZDciSOU2xFuVE0V7jsgJqBfClhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366810621192-tqk1q9kf5f1o3n5u0hpu6apuq4j5fkuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366810621192:android:28be31eae7fcd7d612b8bd",
+        "android_client_info": {
+          "package_name": "com.tp.youngreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366810621192-tqk1q9kf5f1o3n5u0hpu6apuq4j5fkuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEM7LrZDciSOU2xFuVE0V7jsgJqBfClhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366810621192-tqk1q9kf5f1o3n5u0hpu6apuq4j5fkuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

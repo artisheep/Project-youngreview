@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TPFALK/LASS/app/src/main/res/layout/activity_achatactivity.xml" value="0.1" />
+        <entry key="..\:/TPFALK/LASS/app/src/main/res/layout/activity_chatactivity.xml" value="0.18802083333333333" />
+        <entry key="..\:/TPFALK/LASS/app/src/main/res/layout/activity_review.xml" value="0.2155223880597015" />
+        <entry key="..\:/TPFALK/LASS/app/src/main/res/layout/activity_start.xml" value="0.18802083333333333" />
+        <entry key="..\:/TPFALK/LASS/app/src/main/res/layout/fragment_review.xml" value="0.10410334346504559" />
+        <entry key="..\:/TPFALK/Test/app/src/main/res/layout/activity_chat.xml" value="0.22826086956521738" />
+        <entry key="..\:/TPFALK/Test/app/src/main/res/layout/activity_start.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
